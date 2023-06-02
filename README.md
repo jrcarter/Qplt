@@ -22,7 +22,7 @@ qplt_sombrero.txt contains the "Sombrero" curve, sin x / x (with the limit of 1 
 
 qplt np -t Sombrero qplt_sombrero.txt
 
-qplt_wpop.txt contains values for of world population since 1600. Suggested use:
+qplt_wpop.txt contains values of world population since 1600. Suggested use:
 
 qplt -t "World Population" -x Year -y "Population in billions" qplt_wpop.txt
 

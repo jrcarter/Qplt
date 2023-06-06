@@ -6,10 +6,10 @@ type
 
 qplt -?
 
-for usage instructions
+for usage instructions, or read the code that outputs them.
 
 ## Dependencies
-Qplt requires Ada GUI (https://github.com/jrcarter/Ada_GUI) and the PragmAda Reusable Components (https://github.com/jrcarter/PragmARC).
+Qplt requires Ada GUI (https://github.com/jrcarter/Ada_GUI) and the PragmAda Reusable Components (https://github.com/jrcarter/PragmARC). Those unfamiliar with Ada GUI should install it, run the test programs, and be familiar with its Readme before running Qplt.
 
 ## Sample Input
 The files qplt_sine.txt, qplt_sombrero.txt, and qplt_wpop.txt contain sample data for Qplt.

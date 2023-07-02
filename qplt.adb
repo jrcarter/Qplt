@@ -103,7 +103,7 @@ procedure Qplt is
       Ada.Text_IO.Put_Line (Item => "   options:");
       Ada.Text_IO.Put_Line (Item => "      -h");
       Ada.Text_IO.Put_Line (Item => "      -?");
-      Ada.Text_IO.Put_Line (Item => "      -- help      Output this information and exit");
+      Ada.Text_IO.Put_Line (Item => "      --help       Output this information and exit");
       Ada.Text_IO.Put_Line (Item => "      nl           (No Lines) plot data points only");
       Ada.Text_IO.Put_Line (Item => "      np           (No Points) plot lines only");
       Ada.Text_IO.Put_Line (Item => "                   If multiple of nl and np occur, only the last has effect");
